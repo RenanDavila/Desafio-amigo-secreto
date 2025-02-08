@@ -57,10 +57,3 @@ function sortearAmigo() {
     }
 }
 ```
-
-## Contribuições
-Contribuições são sempre bem-vindas! Por favor, leia o arquivo CONTRIBUTING.md para saber como ajudar a melhorar este projeto.
-
-## Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
